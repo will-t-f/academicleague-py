@@ -1,0 +1,3 @@
+#!/bin/bash
+cd ~/bin/ # This can be changed to whatever directory you are saving your main.py to.
+python3 main.py
